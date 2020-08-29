@@ -18,4 +18,4 @@ This features:\
 Fortress-AC and CYA-AC are trademarks of Nekonic Technology (2016 - 2020),\
 We reserve the right to terminate the contract that you sign when using the software. 
 
-Anyone caught pirating the software when their server runs will be blacklisted on all servers running the Anti-Cheat Legally.\
+Anyone caught pirating the software when their server runs will be blacklisted on all servers running the Anti-Cheat Legally.
